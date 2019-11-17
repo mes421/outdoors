@@ -1,0 +1,46 @@
+body {
+	background-image: url('images/negative-space-woods-outdoors-trees-trail-forest-pixabay.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+}
+
+.main_container {
+	width: 70%;
+	background: rgba(255, 255, 255);
+	padding: 20px;
+	font-family: Helvetica, Arial, san-serif;
+	color: #000000;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+#rotator {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 5%;
+	float: left;
+}
+
+#footer {
+	width: 100%;
+	clear: both;
+	padding-top: 50px;
+}
+
+.article {
+	width: 300px;
+}
+
+.nav-link {
+	margin-left: 30px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.readmore {
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
